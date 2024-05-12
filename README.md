@@ -23,6 +23,21 @@ please don't forget to cite our paper:
   doi={10.1109/ACCESS.2024.3381999}}
 
 
-  ![Graphical-abstract](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/679db7a7-42bd-4bc7-bd85-5f4bc44f06a7)
+
+
+Designing and selecting an appropriate structure for a convolutional neural network always comes with challenges that must be carefully managed. Several influential factors in the design of CNNs can directly impact their performance, including the number of layers, filter sizes, the number of neurons in each layer, the amount of training data, and hardware settings. Inappropriate choices for these factors can lead to overfitting, reduced performance, or other issues. In recent research, various methods have been used to obtain the structure of convolutional neural networks, one of which is evolutionary optimization algorithms. In this study, as depicted in Figure 6, the genetic optimization algorithm has been utilized to obtain an appropriate structure for convolutional neural networks. 
+
+    ![shara6-3381999-small](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/ed83f6d0-9e59-4c08-858c-81b5d24af246) figur6
+
+
+
+To determine the appropriate number of layers and the structure of a convolutional neural network (CNN) for detecting driver drowsiness, we first obtain the optimal CNN structure using a genetic algorithm in an evolutionary approach based on the FER-2013 dataset. The FER-2013 dataset consists of 35887 images categorized into six classes. To better understand the optimization process in the genetic algorithm for obtaining the optimal CNN structure, as depicted in Figure 7, a chromosome in the genetic algorithm is defined as the parameters of a convolutional layer and a fully connected layer. As seen in Figure 7, these parameters include the number of filters in the convolutional layer (F1), kernel size (K), dropout rate (D1), the activation function of the convolutional layer (A1), the number of neurons in the dense layer (N), the activation function of the dense layer (A2), dropout rate (D2), and the number of epochs for network training (Ep). Together, these parameters form the chromosome and the genetic algorithm is used to optimize them. A CNN with one convolutional layer and one fully connected layer is initially designed based on the FER-2013 dataset using the genetic algorithm to obtain its optimal structure. Subsequently, as shown in Figure 10, while keeping the structure of the first convolutional layer fixed, a second convolutional layer is added along with another fully connected layer. Again, the optimal structure is determined using the genetic algorithm with the FER-2013 dataset. As illustrated in Figure 10, this process continues until no improvement in the performance of the CNN is observed by adding a convolutional layer. 
+
+
+
+
+    ![shara7-3381999-small](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/8f67a69d-704b-4169-b623-f4f07f601c23)
+
+  ![Graphical-abstract](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/679db7a7-42bd-4bc7-bd85-5f4bc44f06a7) figure6
 
   
