@@ -21,4 +21,8 @@ please don't forget to cite our paper:
   keywords={Vehicles;Brain modeling;Accidents;Convolutional neural networks;Feature extraction;Fatigue;Genetic algorithms;Accidents;Vehicle driving;Vehicle safety;Driver drowsiness detection;convolutional neural network (CNN);neural architecture search;genetic algorithm},
 
   doi={10.1109/ACCESS.2024.3381999}}
+
+
+  ![Graphical-abstract](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/679db7a7-42bd-4bc7-bd85-5f4bc44f06a7)
+
   
