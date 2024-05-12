@@ -1,7 +1,7 @@
 Driver Drowsiness Detection Based on Convolutional Neural Network Architecture Optimization Using Genetic Algorithm
 this code is the first step of the algorithm used in the paper 
 you can train the model and use transfer learning or finetune on your own dataset, i used Drowsy Detection Dataset that was collected by myself and it is available on my Kaggle account.10.34740/kaggle/dsv/8311245
-
+<<<<<<<<<<<<<<<<<<<<<<<<kaggle datasets download -d yasharjebraeily/drowsy-detection-dataset>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 
@@ -20,6 +20,21 @@ To determine the appropriate number of layers and the structure of a convolution
 
 ![shara7-3381999-small](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/bb3844d1-8f27-4420-ab0f-996b6e896264)
                               Figure7
+
+
+
+
+
+
+
+
+
+   
+
+  ![Graphical-abstract](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/679db7a7-42bd-4bc7-bd85-5f4bc44f06a7) 
+                                Figure8
+  
+
 
 
 
@@ -46,12 +61,3 @@ please don't forget to cite our paper:
   keywords={Vehicles;Brain modeling;Accidents;Convolutional neural networks;Feature extraction;Fatigue;Genetic algorithms;Accidents;Vehicle driving;Vehicle safety;Driver drowsiness detection;convolutional neural network (CNN);neural architecture search;genetic algorithm},
 
   doi={10.1109/ACCESS.2024.3381999}}
-
-
-
-
-   
-
-  ![Graphical-abstract](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/679db7a7-42bd-4bc7-bd85-5f4bc44f06a7) 
-                                Figure8
-  
