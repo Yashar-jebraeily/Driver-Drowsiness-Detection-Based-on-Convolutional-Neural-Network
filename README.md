@@ -27,7 +27,8 @@ please don't forget to cite our paper:
 
 Designing and selecting an appropriate structure for a convolutional neural network always comes with challenges that must be carefully managed. Several influential factors in the design of CNNs can directly impact their performance, including the number of layers, filter sizes, the number of neurons in each layer, the amount of training data, and hardware settings. Inappropriate choices for these factors can lead to overfitting, reduced performance, or other issues. In recent research, various methods have been used to obtain the structure of convolutional neural networks, one of which is evolutionary optimization algorithms. In this study, as depicted in Figure 6, the genetic optimization algorithm has been utilized to obtain an appropriate structure for convolutional neural networks. 
 
-    ![shara6-3381999-small](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/ed83f6d0-9e59-4c08-858c-81b5d24af246) figur6
+   
+![shara6-3381999-large](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/ebc20ba8-a376-46a4-8928-41cbd3d64308)
 
 
 
@@ -35,8 +36,9 @@ To determine the appropriate number of layers and the structure of a convolution
 
 
 
+![shara7-3381999-small](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/bb3844d1-8f27-4420-ab0f-996b6e896264)
 
-    ![shara7-3381999-small](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/8f67a69d-704b-4169-b623-f4f07f601c23)
+   
 
   ![Graphical-abstract](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/679db7a7-42bd-4bc7-bd85-5f4bc44f06a7) figure6
 
