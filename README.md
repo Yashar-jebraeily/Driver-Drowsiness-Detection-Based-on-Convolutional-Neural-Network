@@ -29,6 +29,7 @@ Designing and selecting an appropriate structure for a convolutional neural netw
 
    
 ![shara6-3381999-large](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/ebc20ba8-a376-46a4-8928-41cbd3d64308)
+                                         Figure6
 
 
 
@@ -37,6 +38,13 @@ To determine the appropriate number of layers and the structure of a convolution
 
 
 ![shara7-3381999-small](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/bb3844d1-8f27-4420-ab0f-996b6e896264)
+                                  Figure7
+
+
+
+
+
+
 
    
 
