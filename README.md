@@ -14,7 +14,6 @@ Jebraeily, Y., Sharafi, Y. and Teshnehlab, M., 2024. Driver Drowsiness Detection
 
 
 
-
 ![shara7-3381999-small](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/bb3844d1-8f27-4420-ab0f-996b6e896264)
                             
 
@@ -39,4 +38,5 @@ Jebraeily, Y., Sharafi, Y. and Teshnehlab, M., 2024. Driver Drowsiness Detection
 
 
 
- 
+ ![shara8-3381999-small](https://github.com/Yashar-jebraeily/Driver-Drowsiness-Detection-Based-on-Convolutional-Neural-Network/assets/165891529/4fde5c8c-0685-48d3-b17d-1a18966a582b)
+
